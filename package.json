@@ -1,0 +1,15 @@
+{
+  "name": "learn_redux",
+  "version": "1.0.0",
+  "description": "This is a demo project to learn redux.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nikhil Soni",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.1.2"
+  }
+}
